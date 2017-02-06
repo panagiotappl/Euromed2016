@@ -1,0 +1,17 @@
+.verticalLine {
+    border-left: 1px solid #B0B0B0;
+}
+
+.pad-left{
+  padding-left: 30px;
+}
+
+.pad-right{
+  padding-right: 30px;
+}
+
+.btn-mine{
+background: #5f6a72;
+color: white;
+padding: 7px 16px;
+}
